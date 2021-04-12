@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\bin\Debug\netcoreapp3.1\Loot_Box.exe
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\bin\Debug\netcoreapp3.1\Loot_Box.deps.json
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\bin\Debug\netcoreapp3.1\Loot_Box.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\bin\Debug\netcoreapp3.1\Loot_Box.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\bin\Debug\netcoreapp3.1\Loot_Box.dll
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\bin\Debug\netcoreapp3.1\Loot_Box.pdb
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.dll
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.pdb
+C:\Users\Kiril\Advanced_CSharp\ReTake_Preparation\Loot_Box\obj\Debug\netcoreapp3.1\Loot_Box.genruntimeconfig.cache
